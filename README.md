@@ -1,5 +1,3 @@
-# Retail-Sales-Performance-Analysis-Dashboard
-
 # Retail Sales Performance Analysis Dashboard
 
 ## 📌 Project Overview
